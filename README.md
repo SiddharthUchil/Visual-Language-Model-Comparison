@@ -1,5 +1,7 @@
 # Visual Language Model Comparison: Pushing the Boundaries of Multimodal AI
 
+https://github.com/SiddharthUchil/Visual-Language-Model-Comparison/assets/36127139/5d1cdbf0-0158-432d-94a7-e8b93e6685b4
+
 This GitHub project aims to provide a comprehensive analysis and evaluation of the most advanced visual language models (VLMs) currently available. VLMs represent a groundbreaking development in artificial intelligence, enabling seamless integration of text and image understanding, unlocking a myriad of exciting applications that were previously unattainable.
 
 ## Project Overview
@@ -34,7 +36,8 @@ By presenting the same set of images and questions to each VLM, the project aims
 
 ## Technical Aspects
 
-This project leverages state-of-the-art deep learning techniques, including transformer architectures, attention mechanisms, and multimodal fusion strategies, to enable VLMs to effectively process and integrate textual and visual information. The evaluation process involves carefully curated datasets and benchmarks, designed to challenge the VLMs' abilities in tasks such as image captioning, visual question answering, and multimodal reasoning. Advanced metrics, including BLEU, METEOR, and CIDEr, are employed to quantify the models' performance accurately.
-The Streamlit dashboard incorporates interactive visualizations, such as confusion matrices, precision-recall curves, and attention heatmaps, to provide intuitive insights into the models' strengths, weaknesses, and decision-making processes.
+- This project leverages state-of-the-art deep learning techniques, including transformer architectures, attention mechanisms, and multimodal fusion strategies, to enable VLMs to effectively process and integrate textual and visual information.
+- The evaluation process involves carefully curated datasets and benchmarks, designed to challenge the VLMs' abilities in tasks such as image captioning, visual question answering, and multimodal reasoning. Advanced metrics, including BLEU, METEOR, and CIDEr, are employed to quantify the models' performance accurately.
+- The Streamlit dashboard incorporates interactive visualizations, such as confusion matrices, precision-recall curves, and attention heatmaps, to provide intuitive insights into the models' strengths, weaknesses, and decision-making processes.
 
 
